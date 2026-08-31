@@ -1,0 +1,66 @@
+about:
+  description: A customizable terminal splash screen with plugin-based data sources.
+  license: ISC
+  homepage: http://splashboard.unhappychoice.com/
+  head: 1dea639
+  archived: false
+  latestVersion: v2.10.0
+  collectedAt: 2026-08-31T06:13:14Z
+timeline:
+  created: 2026-04-20
+  lastCommit: 2026-08-29
+  lastRelease: 2026-06-27
+popularity:
+  star: 214
+  watcher: 1
+  fork: 4
+  release: 25
+  contributor: 5
+  pullRequest: 13
+  issue: 66
+language:
+  Rust: 3917240
+  MDX: 21340
+  Shell: 10352
+  CSS: 9796
+  JavaScript: 8102
+  Handlebars: 2755
+  Nix: 2312
+  Ruby: 1275
+  Nu: 439
+  TypeScript: 270
+  PowerShell: 162
+totalLine: 3974043
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 11
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+  last90d:
+    since: 2026-06-02
+    release: 3
+    mergedPR: 61
+    openPR: 2
+    closedIssue: 0
+    openIssue: 2
+    commit: 68
+  last180d:
+    since: 2026-03-04
+    release: 25
+    mergedPR: 246
+    openPR: 2
+    closedIssue: 53
+    openIssue: 13
+    commit: 919
+  last360d:
+    since: 2025-09-05
+    release: 25
+    mergedPR: 246
+    openPR: 2
+    closedIssue: 53
+    openIssue: 13
+    commit: 919
