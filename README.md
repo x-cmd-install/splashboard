@@ -7,7 +7,7 @@ A customizable terminal splash screen with plugin-based data sources.
 - **Latest release**: `v2.10.0` (2026-06-27)
 - **Last commit**: 2026-09-06
 - **License**: ISC
-- **Stars**: 214 · **Forks**: 4 · **Open issues**: 66 · **Contributors**: 5
+- **Stars**: 215 · **Forks**: 4 · **Open issues**: 66 · **Contributors**: 5
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/splashboard> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:27:22Z._
+_Last regenerated: 2026-09-09T18:21:28Z._
