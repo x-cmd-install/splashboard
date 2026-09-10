@@ -23,7 +23,16 @@ x install splashboard
 - **Latest**: `v2.10.0` (2026-06-27)
 - **Last commit**: 2026-09-06
 - **Assets in release**: 5
-- **Published**: 2026-06-27T17:43:06Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [splashboard-v2.10.0-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.0/splashboard-v2.10.0-aarch64-apple-darwin.tar.gz) | 8.6 MiB | `native/darwin/arm64` |
+| [splashboard-v2.10.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.0/splashboard-v2.10.0-aarch64-unknown-linux-gnu.tar.gz) | 9.0 MiB | `native/linux/arm64/glibc` |
+| [splashboard-v2.10.0-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.0/splashboard-v2.10.0-x86_64-apple-darwin.tar.gz) | 9.0 MiB | `native/darwin/x64` |
+| [splashboard-v2.10.0-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/splashboard/releases/download/v2.10.0/splashboard-v2.10.0-x86_64-pc-windows-msvc.zip) | 9.7 MiB | `native/win/x64` |
+| [splashboard-v2.10.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.0/splashboard-v2.10.0-x86_64-unknown-linux-gnu.tar.gz) | 9.6 MiB | `native/linux/x64/glibc` |
 
 ## Popularity
 
@@ -58,8 +67,8 @@ Total: **111,158** lines of code across **306** files in the top 5 languages.
 Install metadata for splashboard lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `splashboard` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/splashboard.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/splashboard.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:25:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:52:56Z._
