@@ -1,24 +1,65 @@
 # splashboard
 
+[中文版本](./README.cn.md)
+
 A customizable terminal splash screen with plugin-based data sources.
 
-- **Upstream**: <https://github.com/unhappychoice/splashboard>
-- **Homepage**: <http://splashboard.unhappychoice.com/>
-- **Latest release**: `v2.10.0` (2026-06-27)
-- **Last commit**: 2026-09-06
-- **License**: ISC
-- **Stars**: 215 · **Forks**: 4 · **Open issues**: 66 · **Contributors**: 5
+![splashboard](https://repo.x-cmd.io/splashboard.svg)
 
-## Installation
+## Install
 
 ```sh
 x install splashboard
 ```
 
-See <https://x-cmd.com/install/splashboard> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/unhappychoice/splashboard>
+- **Homepage**: <http://splashboard.unhappychoice.com/>
+- **License**: ISC
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:21:28Z._
+- **Latest**: `v2.10.0` (2026-06-27)
+- **Last commit**: 2026-09-06
+- **Assets in release**: 5
+- **Published**: 2026-06-27T17:43:06Z
+
+## Popularity
+
+- **Stars**: 216 · **Forks**: 4 · **Open issues**: 66 · **Contributors**: 5
+
+## Totals (cumulative)
+
+- **Releases**: 25 · **Merged PRs**: 253 · **Open PRs**: 0 · **Closed issues**: 53 · **Open issues**: 13 · **Commits**: 1183
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 14 | 0 | 0 | 0 | 13 |
+| 90d | 2026-06-12 | 2 | 61 | 0 | 0 | 0 | 64 |
+| 360d | 2025-09-15 | 25 | 253 | 0 | 53 | 13 | 926 |
+
+## Code size
+
+Total: **111,158** lines of code across **306** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 100,140 | 1,553 | 9,487 | 272 |
+| Json | 8,303 | 0 | 0 | 4 |
+| Toml | 1,912 | 423 | 349 | 23 |
+| Sh | 231 | 24 | 48 | 4 |
+| JavaScript | 161 | 24 | 13 | 3 |
+
+## Improve this data
+
+Install metadata for splashboard lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `splashboard` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/splashboard.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:25:31Z._
