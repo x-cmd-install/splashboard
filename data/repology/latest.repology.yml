@@ -4,7 +4,7 @@
   visiblename: splashboard
   version: 2.10.0
   origversion: 2.10.0-1
-  status: unique
+  status: outdated
   summary: A customizable terminal splash screen with plugin-based data sources
   maintainers:
     - anelgarhy@aur
@@ -14,8 +14,8 @@
   srcname: splashboard-bin
   binname: splashboard-bin
   visiblename: splashboard-bin
-  version: 2.10.0
-  origversion: 2.10.0-1
+  version: 2.10.1
+  origversion: 2.10.1-1
   status: unique
   summary: A customizable terminal splash screen with plugin-based data sources
   maintainers:
