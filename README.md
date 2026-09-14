@@ -42,18 +42,18 @@ Total: **111,158** lines of code across **306** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 253 · **Open PRs**: 1 · **Closed issues**: 53 · **Open issues**: 13 · **Commits**: 1185
+- **Releases**: 26 · **Merged PRs**: 253 · **Open PRs**: 5 · **Closed issues**: 53 · **Open issues**: 13 · **Commits**: 1185
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 13 | 1 | 0 | 0 | 15 |
-| last60d | 2026-07-15 | 1 | 35 | 1 | 0 | 0 | 38 |
-| 90d | 2026-06-15 | 2 | 57 | 1 | 0 | 0 | 66 |
-| last180d | 2026-03-17 | 26 | 253 | 1 | 53 | 13 | 928 |
-| 360d | 2025-09-18 | 26 | 253 | 1 | 53 | 13 | 928 |
-| last720d | 2024-09-23 | 26 | 253 | 1 | 53 | 13 | 1185 |
+| 30d | 2026-08-15 | 1 | 13 | 5 | 0 | 0 | 13 |
+| last60d | 2026-07-16 | 1 | 35 | 5 | 0 | 0 | 29 |
+| 90d | 2026-06-16 | 2 | 57 | 5 | 0 | 0 | 61 |
+| last180d | 2026-03-18 | 26 | 253 | 5 | 53 | 13 | 928 |
+| 360d | 2025-09-19 | 26 | 253 | 5 | 53 | 13 | 928 |
+| last720d | 2024-09-24 | 26 | 253 | 5 | 53 | 13 | 1185 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for splashboard lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:36:26Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:42:51Z._
