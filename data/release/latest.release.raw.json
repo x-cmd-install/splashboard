@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8689552,
       "digest": "sha256:8d1ab297414a924a4bf48321e3252b254911162f4ebc6f52f64a251c4134345e",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-12T05:40:46Z",
       "updated_at": "2026-09-12T05:40:47Z",
       "browser_download_url": "https://github.com/unhappychoice/splashboard/releases/download/v2.10.1/splashboard-v2.10.1-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9794358,
       "digest": "sha256:893ac77664c407da00800c6465624fefcc3b7ef4f776d92580e40a732454f8c5",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-12T05:45:25Z",
       "updated_at": "2026-09-12T05:45:26Z",
       "browser_download_url": "https://github.com/unhappychoice/splashboard/releases/download/v2.10.1/splashboard-v2.10.1-x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9825731,
       "digest": "sha256:d00fcf7c74e0f12f453eab5702e5d91957ed081154a5dc489bec9036e661bec7",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-09-12T05:39:12Z",
       "updated_at": "2026-09-12T05:39:13Z",
       "browser_download_url": "https://github.com/unhappychoice/splashboard/releases/download/v2.10.1/splashboard-v2.10.1-x86_64-unknown-linux-gnu.tar.gz"
