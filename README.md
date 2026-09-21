@@ -33,7 +33,7 @@ Total: **111,173** lines of code across **306** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.10.1` (2026-09-12)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-20
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **111,173** lines of code across **306** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 259 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1197
+- **Releases**: 26 · **Merged PRs**: 263 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1205
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 17 | 0 | 2 | 0 | 16 |
-| last60d | 2026-07-22 | 1 | 32 | 0 | 2 | 0 | 27 |
-| 90d | 2026-06-22 | 2 | 57 | 0 | 2 | 0 | 53 |
-| last180d | 2026-03-24 | 26 | 259 | 0 | 55 | 13 | 934 |
-| 360d | 2025-09-25 | 26 | 259 | 0 | 55 | 13 | 934 |
-| last720d | 2024-09-30 | 26 | 259 | 0 | 55 | 13 | 1197 |
+| 30d | 2026-08-22 | 1 | 20 | 0 | 2 | 0 | 20 |
+| last60d | 2026-07-23 | 1 | 36 | 0 | 2 | 0 | 31 |
+| 90d | 2026-06-23 | 2 | 61 | 0 | 2 | 0 | 57 |
+| last180d | 2026-03-25 | 26 | 263 | 0 | 55 | 13 | 938 |
+| 360d | 2025-09-26 | 26 | 263 | 0 | 55 | 13 | 938 |
+| last720d | 2024-10-01 | 26 | 263 | 0 | 55 | 13 | 1205 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for splashboard lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:44:15Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:43:30Z._
