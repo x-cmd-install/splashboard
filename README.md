@@ -48,12 +48,12 @@ Total: **111,173** lines of code across **306** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 20 | 0 | 2 | 0 | 20 |
-| last60d | 2026-07-23 | 1 | 36 | 0 | 2 | 0 | 31 |
-| 90d | 2026-06-23 | 2 | 61 | 0 | 2 | 0 | 57 |
-| last180d | 2026-03-25 | 26 | 263 | 0 | 55 | 13 | 938 |
-| 360d | 2025-09-26 | 26 | 263 | 0 | 55 | 13 | 938 |
-| last720d | 2024-10-01 | 26 | 263 | 0 | 55 | 13 | 1205 |
+| 30d | 2026-08-23 | 1 | 18 | 0 | 2 | 0 | 20 |
+| last60d | 2026-07-24 | 1 | 36 | 0 | 2 | 0 | 31 |
+| 90d | 2026-06-24 | 2 | 60 | 0 | 2 | 0 | 57 |
+| last180d | 2026-03-26 | 26 | 263 | 0 | 55 | 13 | 938 |
+| 360d | 2025-09-27 | 26 | 263 | 0 | 55 | 13 | 938 |
+| last720d | 2024-10-02 | 26 | 263 | 0 | 55 | 13 | 1205 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for splashboard lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:43:30Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:40:40Z._
