@@ -4,7 +4,7 @@
 
 A customizable terminal splash screen with plugin-based data sources.
 
-[![x-cmd/install — splashboard Code Quality Monitoring Repo Card](https://repo.x-cmd.io/splashboard.svg?lang=zh)](https://x-cmd.com/install/splashboard)
+[![x-cmd/install — splashboard Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/splashboard.svg?lang=zh)](https://x-cmd.com/install/splashboard)
 
 ## 安装
 
@@ -42,18 +42,18 @@ x install splashboard
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 263 · **开放 PR**: 0 · **已关闭 issue**: 55 · **开放 issue**: 13 · **提交数**: 1205
+- **发布数**: 26 · **已合并 PR**: 263 · **开放 PR**: 1 · **已关闭 issue**: 55 · **开放 issue**: 13 · **提交数**: 1205
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 18 | 0 | 2 | 0 | 20 |
-| last60d | 2026-07-24 | 1 | 36 | 0 | 2 | 0 | 31 |
-| 90d | 2026-06-24 | 2 | 60 | 0 | 2 | 0 | 57 |
-| last180d | 2026-03-26 | 26 | 263 | 0 | 55 | 13 | 938 |
-| 360d | 2025-09-27 | 26 | 263 | 0 | 55 | 13 | 938 |
-| last720d | 2024-10-02 | 26 | 263 | 0 | 55 | 13 | 1205 |
+| 30d | 2026-08-24 | 1 | 18 | 1 | 2 | 0 | 20 |
+| last60d | 2026-07-25 | 1 | 35 | 1 | 2 | 0 | 31 |
+| 90d | 2026-06-25 | 2 | 60 | 1 | 2 | 0 | 57 |
+| last180d | 2026-03-27 | 26 | 263 | 1 | 55 | 13 | 938 |
+| 360d | 2025-09-28 | 26 | 263 | 1 | 55 | 13 | 938 |
+| last720d | 2024-10-03 | 26 | 263 | 1 | 55 | 13 | 1205 |
 
 ## Release 资产
 
@@ -74,4 +74,4 @@ splashboard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:40:43Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:35:11Z._

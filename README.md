@@ -4,7 +4,7 @@
 
 A customizable terminal splash screen with plugin-based data sources.
 
-[![x-cmd/install — splashboard Code Quality Monitoring Repo Card](https://repo.x-cmd.io/splashboard.svg)](https://x-cmd.com/install/splashboard)
+[![x-cmd/install — splashboard Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/splashboard.svg)](https://x-cmd.com/install/splashboard)
 
 ## Install
 
@@ -42,18 +42,18 @@ Total: **111,173** lines of code across **306** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 263 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1205
+- **Releases**: 26 · **Merged PRs**: 263 · **Open PRs**: 1 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1205
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 18 | 0 | 2 | 0 | 20 |
-| last60d | 2026-07-24 | 1 | 36 | 0 | 2 | 0 | 31 |
-| 90d | 2026-06-24 | 2 | 60 | 0 | 2 | 0 | 57 |
-| last180d | 2026-03-26 | 26 | 263 | 0 | 55 | 13 | 938 |
-| 360d | 2025-09-27 | 26 | 263 | 0 | 55 | 13 | 938 |
-| last720d | 2024-10-02 | 26 | 263 | 0 | 55 | 13 | 1205 |
+| 30d | 2026-08-24 | 1 | 18 | 1 | 2 | 0 | 20 |
+| last60d | 2026-07-25 | 1 | 35 | 1 | 2 | 0 | 31 |
+| 90d | 2026-06-25 | 2 | 60 | 1 | 2 | 0 | 57 |
+| last180d | 2026-03-27 | 26 | 263 | 1 | 55 | 13 | 938 |
+| 360d | 2025-09-28 | 26 | 263 | 1 | 55 | 13 | 938 |
+| last720d | 2024-10-03 | 26 | 263 | 1 | 55 | 13 | 1205 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for splashboard lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:40:40Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:35:11Z._
