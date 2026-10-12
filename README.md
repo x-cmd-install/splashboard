@@ -33,27 +33,27 @@ Total: **111,142** lines of code across **306** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.10.2` (2026-10-10)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-12
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 222 · **Forks**: 4 · **Open issues**: 68 · **Contributors**: 5
+- **Stars**: 223 · **Forks**: 4 · **Open issues**: 68 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 272 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1225
+- **Releases**: 27 · **Merged PRs**: 274 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1229
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 2 | 19 | 0 | 2 | 0 | 15 |
-| last60d | 2026-08-12 | 2 | 33 | 0 | 2 | 0 | 34 |
-| 90d | 2026-07-13 | 2 | 54 | 0 | 2 | 0 | 50 |
-| last180d | 2026-04-14 | 27 | 272 | 0 | 55 | 13 | 949 |
-| 360d | 2025-10-16 | 27 | 272 | 0 | 55 | 13 | 949 |
-| last720d | 2024-10-21 | 27 | 272 | 0 | 55 | 13 | 1225 |
+| 30d | 2026-09-12 | 2 | 21 | 0 | 2 | 0 | 17 |
+| last60d | 2026-08-13 | 2 | 34 | 0 | 2 | 0 | 36 |
+| 90d | 2026-07-14 | 2 | 56 | 0 | 2 | 0 | 52 |
+| last180d | 2026-04-15 | 27 | 274 | 0 | 55 | 13 | 951 |
+| 360d | 2025-10-17 | 27 | 274 | 0 | 55 | 13 | 951 |
+| last720d | 2024-10-22 | 27 | 274 | 0 | 55 | 13 | 1229 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for splashboard lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:34:56Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:44:13Z._
