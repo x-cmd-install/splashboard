@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9897930,
       "digest": "sha256:7cebc7fbf19d49b535e0ab7e06376b8b33874cbb8881371584fc7923a25c14f5",
-      "download_count": 30,
+      "download_count": 32,
       "created_at": "2026-10-10T05:08:18Z",
       "updated_at": "2026-10-10T05:08:19Z",
       "browser_download_url": "https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-x86_64-unknown-linux-gnu.tar.gz"
