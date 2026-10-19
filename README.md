@@ -33,27 +33,27 @@ Total: **111,167** lines of code across **306** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.10.2` (2026-10-10)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-18
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 223 · **Forks**: 4 · **Open issues**: 68 · **Contributors**: 5
+- **Stars**: 224 · **Forks**: 4 · **Open issues**: 68 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 276 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1233
+- **Releases**: 27 · **Merged PRs**: 282 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1245
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 17 | 0 | 2 | 0 | 13 |
-| last60d | 2026-08-19 | 2 | 34 | 0 | 2 | 0 | 35 |
-| 90d | 2026-07-20 | 2 | 49 | 0 | 2 | 0 | 47 |
-| last180d | 2026-04-21 | 27 | 253 | 0 | 29 | 11 | 623 |
-| 360d | 2025-10-23 | 27 | 276 | 0 | 55 | 13 | 953 |
-| last720d | 2024-10-28 | 27 | 276 | 0 | 55 | 13 | 1233 |
+| 30d | 2026-09-19 | 1 | 23 | 0 | 0 | 0 | 19 |
+| last60d | 2026-08-20 | 2 | 40 | 0 | 2 | 0 | 41 |
+| 90d | 2026-07-21 | 2 | 55 | 0 | 2 | 0 | 53 |
+| last180d | 2026-04-22 | 27 | 244 | 0 | 17 | 3 | 629 |
+| 360d | 2025-10-24 | 27 | 282 | 0 | 55 | 13 | 959 |
+| last720d | 2024-10-29 | 27 | 282 | 0 | 55 | 13 | 1245 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for splashboard lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:17:35Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:25:52Z._
