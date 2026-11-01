@@ -14,12 +14,12 @@ x install splashboard
 
 ## Code insight
 
-Total: **111,173** lines of code across **306** files in the top 5 languages.
+Total: **111,179** lines of code across **306** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 100,171 | 1,553 | 9,491 | 272 |
-| Json | 8,287 | 0 | 0 | 4 |
+| Json | 8,293 | 0 | 0 | 4 |
 | Toml | 1,912 | 423 | 349 | 23 |
 | Sh | 231 | 24 | 48 | 4 |
 | JavaScript | 161 | 24 | 13 | 3 |
@@ -33,7 +33,7 @@ Total: **111,173** lines of code across **306** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.10.2` (2026-10-10)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-31
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **111,173** lines of code across **306** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 285 · **Open PRs**: 1 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1251
+- **Releases**: 27 · **Merged PRs**: 286 · **Open PRs**: 1 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 18 | 1 | 0 | 0 | 20 |
-| last60d | 2026-09-01 | 2 | 37 | 1 | 2 | 0 | 41 |
-| 90d | 2026-08-02 | 2 | 49 | 1 | 2 | 0 | 54 |
-| last180d | 2026-05-04 | 20 | 144 | 1 | 9 | 3 | 408 |
-| 360d | 2025-11-05 | 27 | 285 | 1 | 55 | 13 | 962 |
-| last720d | 2024-11-10 | 27 | 285 | 1 | 55 | 13 | 1251 |
+| 30d | 2026-10-02 | 1 | 19 | 1 | 0 | 0 | 21 |
+| last60d | 2026-09-02 | 2 | 37 | 1 | 2 | 0 | 42 |
+| 90d | 2026-08-03 | 2 | 50 | 1 | 2 | 0 | 55 |
+| last180d | 2026-05-05 | 18 | 145 | 1 | 9 | 3 | 409 |
+| 360d | 2025-11-06 | 27 | 286 | 1 | 55 | 13 | 963 |
+| last720d | 2024-11-11 | 27 | 286 | 1 | 55 | 13 | 1253 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for splashboard lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:20:10Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:49:15Z._
