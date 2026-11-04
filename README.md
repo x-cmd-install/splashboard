@@ -38,7 +38,7 @@ Total: **111,222** lines of code across **306** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 229 · **Forks**: 4 · **Open issues**: 68 · **Contributors**: 5
+- **Stars**: 230 · **Forks**: 4 · **Open issues**: 68 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **111,222** lines of code across **306** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 21 | 0 | 0 | 0 | 24 |
-| last60d | 2026-09-04 | 2 | 41 | 0 | 2 | 0 | 44 |
-| 90d | 2026-08-05 | 2 | 55 | 0 | 2 | 0 | 59 |
-| last180d | 2026-05-07 | 16 | 148 | 0 | 7 | 3 | 384 |
-| 360d | 2025-11-08 | 27 | 291 | 0 | 55 | 13 | 970 |
-| last720d | 2024-11-13 | 27 | 291 | 0 | 55 | 13 | 1265 |
+| 30d | 2026-10-05 | 1 | 20 | 0 | 0 | 0 | 24 |
+| last60d | 2026-09-05 | 2 | 41 | 0 | 2 | 0 | 44 |
+| 90d | 2026-08-06 | 2 | 55 | 0 | 2 | 0 | 59 |
+| last180d | 2026-05-08 | 16 | 148 | 0 | 7 | 3 | 384 |
+| 360d | 2025-11-09 | 27 | 291 | 0 | 55 | 13 | 970 |
+| last720d | 2024-11-14 | 27 | 291 | 0 | 55 | 13 | 1265 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for splashboard lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:28:29Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:00:10Z._
