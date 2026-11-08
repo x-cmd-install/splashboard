@@ -32,38 +32,38 @@ Total: **111,228** lines of code across **306** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.10.2` (2026-10-10)
-- **Last commit**: 2026-11-06
+- **Latest**: `v2.10.4` (2026-11-07)
+- **Last commit**: 2026-11-07
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 231 · **Forks**: 4 · **Open issues**: 68 · **Contributors**: 5
+- **Stars**: 232 · **Forks**: 4 · **Open issues**: 68 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 292 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1267
+- **Releases**: 28 · **Merged PRs**: 293 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 13 · **Commits**: 1273
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 20 | 0 | 0 | 0 | 25 |
-| last60d | 2026-09-08 | 2 | 39 | 0 | 2 | 0 | 45 |
-| 90d | 2026-08-09 | 2 | 54 | 0 | 2 | 0 | 60 |
-| last180d | 2026-05-11 | 15 | 141 | 0 | 7 | 3 | 385 |
-| 360d | 2025-11-12 | 27 | 292 | 0 | 55 | 13 | 971 |
-| last720d | 2024-11-17 | 27 | 292 | 0 | 55 | 13 | 1267 |
+| 30d | 2026-10-09 | 2 | 21 | 0 | 0 | 0 | 24 |
+| last60d | 2026-09-09 | 3 | 40 | 0 | 2 | 0 | 42 |
+| 90d | 2026-08-10 | 3 | 55 | 0 | 2 | 0 | 61 |
+| last180d | 2026-05-12 | 16 | 134 | 0 | 6 | 3 | 226 |
+| 360d | 2025-11-13 | 28 | 293 | 0 | 55 | 13 | 976 |
+| last720d | 2024-11-18 | 28 | 293 | 0 | 55 | 13 | 1273 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [splashboard-v2.10.2-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-aarch64-apple-darwin.tar.gz) | 8.4 MiB | `native/darwin/arm64` |
-| [splashboard-v2.10.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-aarch64-unknown-linux-gnu.tar.gz) | 8.9 MiB | `native/linux/arm64/glibc` |
-| [splashboard-v2.10.2-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-x86_64-apple-darwin.tar.gz) | 8.8 MiB | `native/darwin/x64` |
-| [splashboard-v2.10.2-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-x86_64-pc-windows-msvc.zip) | 9.4 MiB | `native/win/x64` |
-| [splashboard-v2.10.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-x86_64-unknown-linux-gnu.tar.gz) | 9.4 MiB | `native/linux/x64/glibc` |
+| [splashboard-v2.10.4-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-aarch64-apple-darwin.tar.gz) | 8.4 MiB | `native/darwin/arm64` |
+| [splashboard-v2.10.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-aarch64-unknown-linux-gnu.tar.gz) | 8.9 MiB | `native/linux/arm64/glibc` |
+| [splashboard-v2.10.4-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-x86_64-apple-darwin.tar.gz) | 8.8 MiB | `native/darwin/x64` |
+| [splashboard-v2.10.4-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-x86_64-pc-windows-msvc.zip) | 9.4 MiB | `native/win/x64` |
+| [splashboard-v2.10.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-x86_64-unknown-linux-gnu.tar.gz) | 9.5 MiB | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for splashboard lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:45:47Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:49:21Z._

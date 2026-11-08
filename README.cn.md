@@ -32,38 +32,38 @@ x install splashboard
 
 ## 发布
 
-- **最新版本**: `v2.10.2` (2026-10-10)
-- **最近提交**: 2026-11-06
+- **最新版本**: `v2.10.4` (2026-11-07)
+- **最近提交**: 2026-11-07
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 231 · **Fork**: 4 · **开放 issue**: 68 · **贡献者**: 5
+- **Star**: 232 · **Fork**: 4 · **开放 issue**: 68 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 292 · **开放 PR**: 0 · **已关闭 issue**: 55 · **开放 issue**: 13 · **提交数**: 1267
+- **发布数**: 28 · **已合并 PR**: 293 · **开放 PR**: 0 · **已关闭 issue**: 55 · **开放 issue**: 13 · **提交数**: 1273
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 20 | 0 | 0 | 0 | 25 |
-| last60d | 2026-09-08 | 2 | 39 | 0 | 2 | 0 | 45 |
-| 90d | 2026-08-09 | 2 | 54 | 0 | 2 | 0 | 60 |
-| last180d | 2026-05-11 | 15 | 141 | 0 | 7 | 3 | 385 |
-| 360d | 2025-11-12 | 27 | 292 | 0 | 55 | 13 | 971 |
-| last720d | 2024-11-17 | 27 | 292 | 0 | 55 | 13 | 1267 |
+| 30d | 2026-10-09 | 2 | 21 | 0 | 0 | 0 | 24 |
+| last60d | 2026-09-09 | 3 | 40 | 0 | 2 | 0 | 42 |
+| 90d | 2026-08-10 | 3 | 55 | 0 | 2 | 0 | 61 |
+| last180d | 2026-05-12 | 16 | 134 | 0 | 6 | 3 | 226 |
+| 360d | 2025-11-13 | 28 | 293 | 0 | 55 | 13 | 976 |
+| last720d | 2024-11-18 | 28 | 293 | 0 | 55 | 13 | 1273 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [splashboard-v2.10.2-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-aarch64-apple-darwin.tar.gz) | 8.4 MiB | `native/darwin/arm64` |
-| [splashboard-v2.10.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-aarch64-unknown-linux-gnu.tar.gz) | 8.9 MiB | `native/linux/arm64/glibc` |
-| [splashboard-v2.10.2-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-x86_64-apple-darwin.tar.gz) | 8.8 MiB | `native/darwin/x64` |
-| [splashboard-v2.10.2-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-x86_64-pc-windows-msvc.zip) | 9.4 MiB | `native/win/x64` |
-| [splashboard-v2.10.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.2/splashboard-v2.10.2-x86_64-unknown-linux-gnu.tar.gz) | 9.4 MiB | `native/linux/x64/glibc` |
+| [splashboard-v2.10.4-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-aarch64-apple-darwin.tar.gz) | 8.4 MiB | `native/darwin/arm64` |
+| [splashboard-v2.10.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-aarch64-unknown-linux-gnu.tar.gz) | 8.9 MiB | `native/linux/arm64/glibc` |
+| [splashboard-v2.10.4-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-x86_64-apple-darwin.tar.gz) | 8.8 MiB | `native/darwin/x64` |
+| [splashboard-v2.10.4-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-x86_64-pc-windows-msvc.zip) | 9.4 MiB | `native/win/x64` |
+| [splashboard-v2.10.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-x86_64-unknown-linux-gnu.tar.gz) | 9.5 MiB | `native/linux/x64/glibc` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ splashboard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T05:45:48Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T05:49:21Z._
