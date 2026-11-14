@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8776767,
       "digest": "sha256:06f469fb407e24e2b743099dbb454e0398eeff9a283ab094f55f94099ac6f263",
-      "download_count": 13,
+      "download_count": 17,
       "created_at": "2026-11-07T11:03:58Z",
       "updated_at": "2026-11-07T11:03:59Z",
       "browser_download_url": "https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9914334,
       "digest": "sha256:b3435c1f30b15b8ad27bef33b4e7a7c60443ec1a5956b22382b7569a67bfd396",
-      "download_count": 21,
+      "download_count": 24,
       "created_at": "2026-11-07T11:02:48Z",
       "updated_at": "2026-11-07T11:02:49Z",
       "browser_download_url": "https://github.com/unhappychoice/splashboard/releases/download/v2.10.4/splashboard-v2.10.4-x86_64-unknown-linux-gnu.tar.gz"
